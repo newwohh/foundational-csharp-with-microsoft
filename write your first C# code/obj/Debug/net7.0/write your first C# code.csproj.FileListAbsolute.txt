@@ -1,0 +1,15 @@
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/bin/Debug/net7.0/write your first C# code
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/bin/Debug/net7.0/write your first C# code.deps.json
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/bin/Debug/net7.0/write your first C# code.runtimeconfig.json
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/bin/Debug/net7.0/write your first C# code.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/bin/Debug/net7.0/write your first C# code.pdb
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.csproj.AssemblyReference.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.GeneratedMSBuildEditorConfig.editorconfig
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.AssemblyInfoInputs.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.AssemblyInfo.cs
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.csproj.CoreCompileInputs.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/refint/write your first C# code.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.pdb
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/write your first C# code.genruntimeconfig.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/write your first C# code/obj/Debug/net7.0/ref/write your first C# code.dll
