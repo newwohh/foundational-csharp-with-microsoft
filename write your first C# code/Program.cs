@@ -23,8 +23,7 @@ Console.WriteLine(greeting + " " + firstname);
 int result = 3 + 1 * 5 / 2;
 Console.WriteLine(result);
 
-// int sophiaSum;
-// Console.WriteLine("Sophia: " + sophiaSum);
+
 
 
 string projectName = "ACME";
@@ -39,3 +38,80 @@ Console.WriteLine(russianOutput);
 int firstNumber = 12;
 int secondNumber = 7;
 Console.WriteLine(firstNumber + secondNumber);
+
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + widgetsSold + " widgets.");
+Console.WriteLine(firstName + " sold " + widgetsSold + 7 + " widgets.");
+Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
+
+decimal decimalQuotient = 7.0m / 5;
+Console.WriteLine($"Decimal quotient: {decimalQuotient}");
+
+int first = 7;
+int second = 5;
+
+decimal quotient = (decimal)first / (decimal)second;
+Console.WriteLine(quotient);
+
+int value1 = 3 + 4 * 5;
+int value2 = (3 + 4) * 5;
+Console.WriteLine(value1);
+Console.WriteLine(value2);
+
+int fahrenheit = 94;
+decimal celsius = ((decimal) fahrenheit - 32) * 5 / 9;
+Console.WriteLine($"The temperature is {celsius} Celsius.");
+Console.WriteLine("Windows "+ 11 );
+
+// initialize variables - graded assignments 
+int currentAssignments = 5;
+
+int sophia1 = 93;
+int sophia2 = 87;
+int sophia3 = 98;
+int sophia4 = 95;
+int sophia5 = 100;
+
+int nicolas1 = 80;
+int nicolas2 = 83;
+int nicolas3 = 82;
+int nicolas4 = 88;
+int nicolas5 = 85;
+
+int zahirah1 = 84;
+int zahirah2 = 96;
+int zahirah3 = 73;
+int zahirah4 = 85;
+int zahirah5 = 79;
+
+int jeong1 = 90;
+int jeong2 = 92;
+int jeong3 = 98;
+int jeong4 = 100;
+int jeong5 = 97;
+
+int sophiaSum = (sophia1 + sophia2 + sophia3 + sophia4 + sophia5 / currentAssignments);
+int nicolasSum = (nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5 / currentAssignments);
+int zahirahSum = (zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5 /currentAssignments);
+int jeongSum = (jeong1 + jeong2 + jeong3 + jeong4 + jeong5 / currentAssignments);
+
+Console.WriteLine("Sophia: " + sophiaSum);
+Console.WriteLine("Nicolas: " + nicolasSum);
+Console.WriteLine("Zahirah: " + zahirahSum);
+Console.WriteLine("Jeong: " + jeongSum);
+
+decimal nicolasScore = nicolasSum / currentAssignments;
+decimal zahirahScore = zahirahSum / currentAssignments;
+decimal jeongScore = jeongSum / currentAssignments;
+decimal sophiaScore = sophiaSum / currentAssignments;
+
+Console.WriteLine("Sophia: " + sophiaScore + " A");
+Console.WriteLine("Nicolas: " + nicolasScore + " B");
+Console.WriteLine("Zahirah: " + zahirahScore + " B");
+Console.WriteLine("Jeong: " + jeongScore + " A");
+
+// var value = (int) dividend / (int) divisor;
+
+// int sophiaSum;
+// Console.WriteLine("Sophia: " + sophiaSum);
