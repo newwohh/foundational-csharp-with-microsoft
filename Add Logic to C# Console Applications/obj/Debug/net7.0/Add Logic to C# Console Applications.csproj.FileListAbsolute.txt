@@ -1,0 +1,15 @@
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/bin/Debug/net7.0/Add Logic to C# Console Applications
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/bin/Debug/net7.0/Add Logic to C# Console Applications.deps.json
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/bin/Debug/net7.0/Add Logic to C# Console Applications.runtimeconfig.json
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/bin/Debug/net7.0/Add Logic to C# Console Applications.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/bin/Debug/net7.0/Add Logic to C# Console Applications.pdb
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.csproj.AssemblyReference.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.GeneratedMSBuildEditorConfig.editorconfig
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.AssemblyInfoInputs.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.AssemblyInfo.cs
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.csproj.CoreCompileInputs.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/refint/Add Logic to C# Console Applications.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.pdb
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/Add Logic to C# Console Applications.genruntimeconfig.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Add Logic to C# Console Applications/obj/Debug/net7.0/ref/Add Logic to C# Console Applications.dll
