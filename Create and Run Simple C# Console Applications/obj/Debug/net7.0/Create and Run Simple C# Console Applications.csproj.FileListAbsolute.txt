@@ -1,0 +1,15 @@
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/bin/Debug/net7.0/Create and Run Simple C# Console Applications
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/bin/Debug/net7.0/Create and Run Simple C# Console Applications.deps.json
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/bin/Debug/net7.0/Create and Run Simple C# Console Applications.runtimeconfig.json
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/bin/Debug/net7.0/Create and Run Simple C# Console Applications.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/bin/Debug/net7.0/Create and Run Simple C# Console Applications.pdb
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.csproj.AssemblyReference.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.GeneratedMSBuildEditorConfig.editorconfig
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.AssemblyInfoInputs.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.AssemblyInfo.cs
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.csproj.CoreCompileInputs.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/refint/Create and Run Simple C# Console Applications.dll
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.pdb
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/Create and Run Simple C# Console Applications.genruntimeconfig.cache
+/media/good/3813a31b-646f-44d9-9d0d-8cf066ac6379/dev/Courses/FreeCodeCamp/C#/All/Create and Run Simple C# Console Applications/obj/Debug/net7.0/ref/Create and Run Simple C# Console Applications.dll
